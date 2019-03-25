@@ -1,0 +1,29 @@
+.toDoListWrapper
+{height: 600px;}
+
+.toDoListTitle
+{
+    background: #BF5FE4;
+    width: 240px;
+    height: 50px;
+}
+
+.toDoListTitle h4
+{line-height: 50px;}
+
+.newTaskButton
+{
+background:#BF5FE4;
+color: #fff;
+border-radius: 15px;
+}
+
+#newTaskValue
+{
+    color: #000;
+    background: #fff;
+    border: none;
+}
+
+#myList
+{list-style: none;}
